@@ -1,16 +1,16 @@
-# Clint Eastwood
+# Alex Capus
 
-Clinton Eastwood Jr. (born May 31, 1930) is an American actor, film director, producer, and composer. After achieving success in the Western TV series Rawhide, he rose to international fame with his role as antihero cop Harry Callahan in the five Dirty Harry films throughout the 1970s and 1980s.
+Ist ein Schriftsteller welcher in Olten lebt und viel über Olten schreibt.
 
-## Character traits
-* He was not spending much time at school
-* He loves spaghetti Western films
-* He is also a film director, producer and composer
-* He has received Academy Award nominations
-* He is best known as Dirty Harry
+## Karakter Eigenschaften
+* Bodenständig
+* Familienmensch
+* Politisch aktiv
+* Betreibt eine Bar
+* Doppelbürger Schweiz und Frankreich
 
-## Featured quote
-> Sometimes if you want to see a change for the better, you have to take things into your own hands.
+## Quote
+> Aus der Verhangenheit lernen und im Jetzt umsetzen.
 
-## Image
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Clint_Eastwood_J._Edgar_Premier%2C_November_2011_%28cropped%29.jpg/434px-Clint_Eastwood_J._Edgar_Premier%2C_November_2011_%28cropped%29.jpg"/>
+## Bild
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Alex_Capus_2018.jpg/220px-Alex_Capus_2018.jpg"/>
