@@ -1,13 +1,13 @@
 # Alex Capus
 
-Ist ein Schriftsteller welcher in Olten lebt und viel über Olten schreibt.
+Ist ein Schriftsteller welcher in Olten lebt und viel ueber Olten schreibt.
 
-## Karakter Eigenschaften
-* Bodenständig
+## Charakter Eigenschaften
+* Bodenstaendig
 * Familienmensch
 * Politisch aktiv
 * Betreibt eine Bar
-* Doppelbürger Schweiz und Frankreich
+* Doppelbuerger Schweiz und Frankreich
 
 ## Quote
 > Aus der Verhangenheit lernen und im Jetzt umsetzen.
